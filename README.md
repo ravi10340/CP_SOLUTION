@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ravi10340/CP_SOLUTION/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ravi10340/CP_SOLUTION/tree/master/0796-rotate-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String Matching
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ravi10340/CP_SOLUTION/tree/master/0242-valid-anagram) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
 | ------- |
@@ -22,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/ravi10340/CP_SOLUTION/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
