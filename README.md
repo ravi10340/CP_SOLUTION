@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravi10340/CP_SOLUTION/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ravi10340/CP_SOLUTION/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravi10340/CP_SOLUTION/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ravi10340/CP_SOLUTION/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
