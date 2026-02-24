@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravi10340/CP_SOLUTION/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/ravi10340/CP_SOLUTION/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ravi10340/CP_SOLUTION/tree/master/0796-rotate-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi10340/CP_SOLUTION/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravi10340/CP_SOLUTION/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravi10340/CP_SOLUTION/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
