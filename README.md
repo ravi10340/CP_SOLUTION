@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravi10340/CP_SOLUTION/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/ravi10340/CP_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/ravi10340/CP_SOLUTION/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi10340/CP_SOLUTION/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravi10340/CP_SOLUTION/tree/master/0005-longest-palindromic-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/ravi10340/CP_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ravi10340/CP_SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ravi10340/CP_SOLUTION/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
